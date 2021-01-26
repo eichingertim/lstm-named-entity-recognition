@@ -3,3 +3,4 @@ nltk
 sklearn
 gensim
 pandas
+tqdm
